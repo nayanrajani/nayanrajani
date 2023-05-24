@@ -22,9 +22,7 @@ Currently working at Blazeclan Technologies in DCC Team.
    <a href="https://www.linkedin.com/in/nayanrajani98/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+   
 <p align='center'>
    📫 How to reach me: <a href='mailto:nayanrajani86gmail.com'>nayanrajani86gmail.com</a>
 </p>
@@ -41,8 +39,6 @@ Scripting Languages: Bash
 Database: MySQL
 
 I love to compete with my past performances than competing with my peers, as I believe that improvement is always better than perfection!
-
-- 📫 How to reach me, Just drop a mail/message on nayanrajani86@gmail.com
 
 <!---
 nayanrajani/nayanrajani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
