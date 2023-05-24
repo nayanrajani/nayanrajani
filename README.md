@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nayanrajani
+👋 Hi, I’m @nayanrajani
 As a Cloud Engineer, I am responsible for bridging the gap between development and operations teams by utilizing various automation tools and methodologies to streamline the software delivery process. I work to improve collaboration, communication, and integration between development, testing, and deployment teams.
 
 Throughout my career, I have gained extensive experience in infrastructure automation, containerization, continuous integration and delivery, and cloud computing. My expertise in tools like AWS, Terraform, Docker, Kubernetes, and Git enables me to design and implement robust and scalable infrastructure that meets the evolving needs of businesses.
