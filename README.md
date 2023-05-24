@@ -1,7 +1,27 @@
 - 👋 Hi, I’m @nayanrajani
-- 👀 I’m interested in working with different types of technologies like Cloud (AWS), Cloudflare, Terraform, Mern Stack.
-- 🌱 I’m currently learning Cloudflare and it's functionalities, how it works, services, security and new thing is Zero Trust.
-- 💞️ I’m looking to collaborate on every possible technology on which I can work on, I'm open to accept new technology and a quick learner.
+As a Cloud Engineer, I am responsible for bridging the gap between development and operations teams by utilizing various automation tools and methodologies to streamline the software delivery process. I work to improve collaboration, communication, and integration between development, testing, and deployment teams.
+
+Throughout my career, I have gained extensive experience in infrastructure automation, containerization, continuous integration and delivery, and cloud computing. My expertise in tools like AWS, Terraform, Docker, Kubernetes, and Git enables me to design and implement robust and scalable infrastructure that meets the evolving needs of businesses.
+
+I thrive in fast-paced environments, and my ability to solve complex problems under tight deadlines has helped me succeed in my roles. My strong analytical and troubleshooting skills enable me to quickly identify and resolve issues. I also have excellent communication skills that help me collaborate effectively with cross-functional teams.
+
+In my current role, I have successfully implemented CI/CD pipelines with AFT that have significantly reduced the time it takes to deploy code, resulting in faster time-to-market and increased productivity. I am always looking for new challenges and opportunities to learn and grow as a DevOps Engineer, and I am excited to bring my skills and experience to your organization.
+
+Currently working at Blazeclan Technologies in DCC Team.
+
+Technical Skills:
+Cloud Services: AWS, Microsoft Azure
+Virtualization/Containers: Kubernetes, Docker
+CI/CD: AWS CI/CD with AFT
+Version Control Systems: Git, GitHub, BitBucket,
+Infrastructure as a Code: Terraform
+Monitoring Tools: Cloudwatch
+Operating System: Ubuntu, Windows
+Scripting Languages: Bash
+Database: MySQL
+
+I love to compete with my past performances than competing with my peers, as I believe that improvement is always better than perfection!
+
 - 📫 How to reach me, Just drop a mail/message on nayanrajani86@gmail.com
 
 <!---
