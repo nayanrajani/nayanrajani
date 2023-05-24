@@ -10,6 +10,25 @@ In my current role, I have successfully implemented CI/CD pipelines with AFT tha
 
 Currently working at Blazeclan Technologies in DCC Team.
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=nayanrajani&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=nayanrajani&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/nayanrajani/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanrajani&layout=compact"/></a>
+</p>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/nayanrajani98/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>>
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:nayanrajani86gmail.com'>nayanrajani86gmail.com</a>
+</p>
+
 Technical Skills:
 Cloud Services: AWS, Microsoft Azure
 Virtualization/Containers: Kubernetes, Docker
