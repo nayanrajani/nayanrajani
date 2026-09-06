@@ -1,46 +1,21 @@
-👋 Hi, I’m @nayanrajani
+### 👋 Hi, I'm @nayanrajani
 
-As a Cloud Engineer, I am responsible for bridging the gap between development and operations teams by utilizing various automation tools and methodologies to streamline the software delivery process. I work to improve collaboration, communication, and integration between development, testing, and deployment teams.
+Senior DevOps Engineer with 5+ years of experience designing, migrating, and operating production cloud infrastructure across AWS and GCP. I focus on Kubernetes/GitOps, observability engineering, Infrastructure as Code, and cloud cost optimization at scale.
 
-Throughout my career, I have gained extensive experience in infrastructure automation, containerization, continuous integration and delivery, and cloud computing. My expertise in tools like AWS, Terraform, Docker, Kubernetes, and Git enables me to design and implement robust and scalable infrastructure that meets the evolving needs of businesses.
+I led a zero-rollback, full production migration of a 24/7 live-streaming platform from AWS to GCP, and I've driven multi-account AWS Organization design, security hardening, and six-figure cloud cost reductions through hands-on architecture work rather than just tooling.
 
-I thrive in fast-paced environments, and my ability to solve complex problems under tight deadlines has helped me succeed in my roles. My strong analytical and troubleshooting skills enable me to quickly identify and resolve issues. I also have excellent communication skills that help me collaborate effectively with cross-functional teams.
+Currently a Senior DevOps Engineer at **Ampity Infotech**, working on cloud migration, platform reliability, and multi-tenant AWS infrastructure.
 
-In my current role, I have successfully implemented CI/CD pipelines with AFT that have significantly reduced the time it takes to deploy code, resulting in faster time-to-market and increased productivity. I am always looking for new challenges and opportunities to learn and grow as a DevOps Engineer, and I am excited to bring my skills and experience to your organization.
+📫 How to reach me: nayanrajani86@gmail.com
 
-Currently working at Blazeclan Technologies in DCC Team.
+**Technical Skills**
+- **Cloud**: AWS, GCP
+- **Containers & Orchestration**: Kubernetes, Helm, ArgoCD (GitOps), Docker, Linkerd
+- **Infrastructure as Code & CI/CD**: Terraform, GitHub Actions, Jenkins, CloudFormation
+- **Observability**: Prometheus, Grafana, Loki, Tempo, OpenTelemetry
+- **Databases & Messaging**: MongoDB, PostgreSQL, Apache Kafka, Redis
+- **Security & Networking**: IAM, Secrets Manager, WAF, VPC, PrivateLink, Transit Gateway, VPN, Zscaler
+- **Scripting**: Bash, Python
+- **OS**: Linux/Unix
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=nayanrajani&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=nayanrajani&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/nayanrajani/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanrajani&layout=compact"/></a>
-</p>
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/nayanrajani98/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   
-<p align='center'>
-   📫 How to reach me: <a href='mailto:nayanrajani86gmail.com'>nayanrajani86gmail.com</a>
-</p>
-
-Technical Skills:
-Cloud Services: AWS, Microsoft Azure
-Virtualization/Containers: Kubernetes, Docker
-CI/CD: AWS CI/CD with AFT
-Version Control Systems: Git, GitHub, BitBucket,
-Infrastructure as a Code: Terraform
-Monitoring Tools: Cloudwatch
-Operating System: Ubuntu, Windows
-Scripting Languages: Bash
-Database: MySQL
-
-I love to compete with my past performances than competing with my peers, as I believe that improvement is always better than perfection!
-
-<!---
-nayanrajani/nayanrajani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'd rather compete with my own past performance than with my peers, improvement beats perfection!
